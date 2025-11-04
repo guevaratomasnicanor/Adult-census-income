@@ -73,7 +73,5 @@ Algunos gráficos generados:
 - Boxplots de horas trabajadas vs ingreso  
 - Matriz de correlación entre variables numéricas
 
-*(Podés incluir aquí imágenes o gráficos con sintaxis Markdown, por ejemplo:)*  
-```markdown
-![Income by Education](images/income_by_education.png)
+
   
