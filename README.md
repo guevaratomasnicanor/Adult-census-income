@@ -30,6 +30,7 @@ Contiene información sobre más de 48 000 individuos.
 
 ### Principales hallazgos
 
+
 - **Demografía:**  
   Jóvenes, mujeres, personas afroamericanas y nativos americanos tienden a ganar menos.  
 - **Brecha de género:**  
@@ -43,7 +44,7 @@ Contiene información sobre más de 48 000 individuos.
   Profesiones con menores ingresos: `Priv-house-serv`, `Handlers-cleaners`, `Farming-fishing`.
 - **Estado civil:**  
   Las personas casadas presentan mayores ingresos.
-
+<img width="1353" height="693" alt="Captura de pantalla 2025-11-11 155110" src="https://github.com/user-attachments/assets/21870135-4018-418f-bfe3-69298488ae91" />
 ---
 
 ## ⚙️ Modelado Predictivo
