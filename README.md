@@ -60,18 +60,11 @@ El mejor desempeño se obtuvo con **XGBoost**:
 ## 🧰 Tecnologías utilizadas
 
 - **Lenguaje:** R  
-- **Bibliotecas:** `xgboost`, `lightgbm`, `ggplot2`, `dplyr`, `caret`
+- **Bibliotecas:** `xgboost`, `lightgbm`, `ggplot2`, `dplyr`, 
 - **Técnicas:** EDA, PCA, MCA, Feature Engineering, Cross Validation
 
----
 
-## 📈 Visualizaciones
 
-Algunos gráficos generados:
-- Distribución de ingresos por sexo y edad  
-- Ingreso promedio por nivel educativo  
-- Boxplots de horas trabajadas vs ingreso  
-- Matriz de correlación entre variables numéricas
 
 
   
