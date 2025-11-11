@@ -32,19 +32,25 @@ Contiene información sobre más de 48 000 individuos.
 
 
 - **Demografía:**  
-  Jóvenes, mujeres, personas afroamericanas y nativos americanos tienden a ganar menos.  
+  Jóvenes, mujeres, personas afroamericanas y nativos americanos tienden a ganar menos. En los grupos de mayor ingreso se encuentran adultos mayores a 35 años, hombres, blancos y asiaticos.
+  - **Educación:**  
+  Menor nivel educativo → menores ingresos promedio.
+<img width="1353" height="693" alt="Captura de pantalla 2025-11-11 155110" src="https://github.com/user-attachments/assets/21870135-4018-418f-bfe3-69298488ae91" />
+- **Carga laboral:**
+  A mayor carga laboral, mejores ingresos.
+   <img width="1355" height="690" alt="Captura de pantalla 2025-11-11 162354" src="https://github.com/user-attachments/assets/7bcbe167-756c-46c5-8946-e1ea599901ca" />
+
 - **Brecha de género:**  
   Se explica en gran parte por las horas trabajadas y las ganancias de capital.
 - **Brecha racial:**  
   Está relacionada con las diferencias en capital gain.
-- **Educación:**  
-  Menor nivel educativo → menores ingresos promedio.
+
 - **Ocupación:**  
   Profesiones con mayores ingresos: `Exec-managerial`, `Prof-specialty`, `Tech-support`, `Sales`.  
   Profesiones con menores ingresos: `Priv-house-serv`, `Handlers-cleaners`, `Farming-fishing`.
 - **Estado civil:**  
   Las personas casadas presentan mayores ingresos.
-<img width="1353" height="693" alt="Captura de pantalla 2025-11-11 155110" src="https://github.com/user-attachments/assets/21870135-4018-418f-bfe3-69298488ae91" />
+
 ---
 
 ## ⚙️ Modelado Predictivo
