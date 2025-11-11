@@ -7,7 +7,7 @@ El objetivo del proyecto es **predecir si una persona gana más de 50 000 USD an
 ## 📊 Dataset
 
 El dataset proviene del clásico **Adult Census Income Dataset (UCI Machine Learning Repository)**.  
-Contiene información sobre más de 48 000 individuos.
+Un censo de Estados Unidos en 1994 sobre más de 48 000 individuos y 16 variables.
 
 **Variables principales:**
 - `income` → variable objetivo (`>50K` o `<=50K`)
@@ -30,7 +30,7 @@ Contiene información sobre más de 48 000 individuos.
 
 ### Principales hallazgos
 
-
+- **Ingresos:** 
 - **Demografía:**  
    mujeres, personas afroamericanas y nativos americanos tienden a ganar menos. En los grupos de mayor ingreso se encuentran hombres, blancos y asiaticos.
 - **Educación:**  
@@ -48,7 +48,6 @@ Contiene información sobre más de 48 000 individuos.
   Se explica en gran parte por las horas trabajadas y las ganancias de capital.
 - **Brecha racial:**  
   Está relacionada con las diferencias en capital gain.
-
 - **Ocupación:**  
   Profesiones con mayores ingresos: `Exec-managerial`, `Prof-specialty`, `Tech-support`, `Sales`.  
   Profesiones con menores ingresos: `Priv-house-serv`, `Handlers-cleaners`, `Farming-fishing`.
