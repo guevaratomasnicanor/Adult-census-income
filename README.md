@@ -35,9 +35,12 @@ Contiene información sobre más de 48 000 individuos.
   Jóvenes, mujeres, personas afroamericanas y nativos americanos tienden a ganar menos. En los grupos de mayor ingreso se encuentran adultos mayores a 35 años, hombres, blancos y asiaticos.
 - **Educación:**  
   Menor nivel educativo → menores ingresos promedio.
+  
 <img width="1353" height="693" alt="Captura de pantalla 2025-11-11 155110" src="https://github.com/user-attachments/assets/21870135-4018-418f-bfe3-69298488ae91" />
+
 - **Carga laboral:**
   A mayor carga laboral, mejores ingresos.
+  
    <img width="1355" height="690" alt="Captura de pantalla 2025-11-11 162354" src="https://github.com/user-attachments/assets/7bcbe167-756c-46c5-8946-e1ea599901ca" />
 
 - **Brecha de género:**  
