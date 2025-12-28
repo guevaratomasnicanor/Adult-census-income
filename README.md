@@ -55,6 +55,19 @@ Un censo de Estados Unidos en 1994 sobre más de 48 000 individuos y 16 variable
   Las personas casadas presentan mayores ingresos.
 
 ---
+Por grupos de personas:
+Puesto	Perfil Demográfico	Ocupación	Total (n)	>50K	Probabilidad
+1	Male / White	Exec-managerial	3,980	2,313	58.12%
+2	Male / Other	Prof-specialty	21	12	57.14%
+3	Male / White	Prof-specialty	3,513	2,004	57.05%
+4	Male / Asian-Pac-Islander	Prof-specialty	211	115	54.50%
+5	Male / Asian-Pac-Islander	Exec-managerial	135	73	54.07%
+
+1	Female / Asian-Pac-Islander	No Registrada (NA)	47	0	0.00%
+2	Female / Black	Priv-house-serv	51	0	0.00%
+3	Female / Other	Other-service	24	0	0.00%
+4	Male / Amer-Indian-Eskimo	Handlers-cleaners	29	0	0.00%
+5	Male / Black	Farming-fishing	49	0	0.00%
 
 ## ⚙️ Modelado Predictivo
 
