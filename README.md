@@ -38,7 +38,7 @@ Un censo de Estados Unidos en 1994 sobre más de 48 000 individuos y 16 variable
   
 <img width="1353" height="693" alt="Captura de pantalla 2025-11-11 155110" src="https://github.com/user-attachments/assets/21870135-4018-418f-bfe3-69298488ae91" />
 - **Edad:**
-  Entre los 17 y los 35 años es mas probable que los ingresos sean menores a 50.000 u$d, de los 35 a 65 es cuando se gana mas dinero.
+  Entre los 17 y los 35 años es mas probable que los ingresos sean menores a 50.000 u$d, de los 35 a 45 es cuando se gana mas dinero.
 - **Carga laboral:**
   A mayor carga laboral, mejores ingresos.
   
