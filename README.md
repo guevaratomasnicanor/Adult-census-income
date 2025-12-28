@@ -64,6 +64,7 @@ Grupos con mayor probabilidad de ingresos >50K
 | 3      | Male / White                | Prof-specialty   | 3,513     | 2,004| 57.05%       |
 | 4      | Male / Asian-Pac-Islander   | Prof-specialty   | 211       | 115  | 54.50%       |
 | 5      | Male / Asian-Pac-Islander   | Exec-managerial  | 135       | 73   | 54.07%       |
+
 Grupos con menor probabilidad de ingresos >50K
 
 | Puesto | Perfil demográfico           | Ocupación           | Total (n) | >50K | Probabilidad |
