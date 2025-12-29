@@ -78,11 +78,14 @@ Grupos con menor probabilidad de ingresos >50K
 ## ⚙️ Modelado Predictivo
 
 Se probaron distintos modelos supervisados.  
-El mejor desempeño se obtuvo con **XGBoost**: El modelo tiene un 87% de accuracy( casi 9 de cada 10 predicciones acertadas).  Se logró identificar al 75% de personas con mayores ingresos
+El mejor desempeño se obtuvo con **XGBoost**: El modelo tiene un 87% de accuracy( casi 9 de cada 10 predicciones acertadas). 
 
-| Modelo | Accuracy | Precision | Recall | F1 Score |
-|---------|-----------|-----------|---------|-----------|
-| XGBoost | **0.87** | **0.78** | 0.75 | 0.76 |
+| Modelo | Accuracy | Precision |
+|---------|-----------|-----------
+| XGBoost | **0.87** | **0.78** |
+
+
+
 
 ---
 
