@@ -80,9 +80,10 @@ Grupos con menor probabilidad de ingresos >50K
 Se probaron distintos modelos supervisados.  
 El mejor desempeño se obtuvo con **XGBoost**: El modelo tiene un 87% de accuracy( casi 9 de cada 10 predicciones acertadas). 
 
-| Modelo | Accuracy | Precision |
-|---------|-----------|-----------
-| XGBoost | **0.87** | **0.78** |
+| Modelo |  Accuracy | Precision | AUC ROC | Recall | F1 |
+|---------|-----------|-----------|-----------|-------| ----|
+| XGBoost | **0.87** | **0.73** | **0.9295** |**0.74** | **0.73** |
+
 
 
 
