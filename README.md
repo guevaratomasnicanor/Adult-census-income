@@ -1,4 +1,4 @@
-# 🧠 Adult Income Analysis
+e# 🧠 Adult Income Analysis
 
 El objetivo del proyecto es **predecir si una persona gana más de 50 000 USD anuales** a partir de características demográficas, laborales y educativas.
 
@@ -45,9 +45,9 @@ Un censo de Estados Unidos en 1994 sobre más de 48 000 individuos y 16 variable
    <img width="1355" height="690" alt="Captura de pantalla 2025-11-11 162354" src="https://github.com/user-attachments/assets/7bcbe167-756c-46c5-8946-e1ea599901ca" />
 
 - **Brecha de género:**  
-  Se explica en gran parte por las horas trabajadas y las ganancias de capital.
+  Se explica en gran parte por las horas trabajadas y las ganancias de capital. Los hombres trabajan 6 horas mas por semana y tienen ganancias de capital 745$ mayores que las mujeres. Estos dos diferenciales hacen que el sexo masculino tenga un 50% mas de probabilidades de estar en el grupo de ingresos altos.
 - **Brecha racial:**  
-  Está relacionada con las diferencias en capital gain.
+  Está relacionada con las diferencias en capital gain y educación.
 - **Ocupación:**  
   Profesiones con mayores ingresos: `Exec-managerial`, `Prof-specialty`, `Tech-support`, `Sales`.  
   Profesiones con menores ingresos: `Priv-house-serv`, `Handlers-cleaners`, `Farming-fishing`.
