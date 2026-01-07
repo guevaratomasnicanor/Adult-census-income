@@ -45,7 +45,7 @@ Un censo de Estados Unidos en 1994 sobre más de 48 000 individuos y 16 variable
    <img width="1355" height="690" alt="Captura de pantalla 2025-11-11 162354" src="https://github.com/user-attachments/assets/7bcbe167-756c-46c5-8946-e1ea599901ca" />
 
 - **Brecha de género:**  
-"La ventaja salarial masculina es un efecto multiplicador de dos niveles. Primero, el sesgo de género directo otorga un 105% de ventaja adicional por el solo hecho de ser hombre —a igualdad de puesto, horas y capital—. Segundo, el comportamiento (6 horas más de trabajo y $745 extra de capital) suma un 51% de ventaja en las probabilidades de éxito. En conjunto, el hombre promedio posee una ventaja competitiva del 211%, demostrando que la valoración sistémica del mercado pesa incluso más que las diferencias en disponibilidad horaria o recursos financieros.
+La ventaja salarial masculina es un efecto multiplicador de dos niveles. Primero, el sesgo de género directo otorga un 105% de ventaja adicional por el solo hecho de ser hombre —a igualdad de puesto, horas y capital—. Segundo, el comportamiento (6 horas más de trabajo y $745 extra de capital) suma un 51% de ventaja en las probabilidades de éxito. En conjunto, el hombre promedio posee una ventaja competitiva del 211%, demostrando que la valoración sistémica del mercado pesa incluso más que las diferencias en disponibilidad horaria o recursos financieros.
 - **Brecha racial:**  
   Está relacionada con las diferencias en capital gain y educación.
 - **Ocupación:**  
