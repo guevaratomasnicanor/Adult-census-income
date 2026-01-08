@@ -67,8 +67,8 @@ El mejor desempeño se obtuvo con **XGBoost**: El modelo tiene un 87% de exactit
 ## 🧰 Tecnologías utilizadas
 
 - **Lenguaje:** R  
-- **Bibliotecas:** `xgboost`, `lightgbm`, `ggplot2`, `dplyr`, 
-- **Técnicas:** EDA, PCA, MCA, Feature Engineering, Cross Validation
+- **Bibliotecas:** `xgboost`, `ggplot2`, `dplyr`.
+- **Técnicas:** EDA, Cross validation, Random search.
 
 
 
