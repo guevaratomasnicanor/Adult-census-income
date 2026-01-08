@@ -37,17 +37,19 @@ Un censo de Estados Unidos en 1994 sobre más de 48 000 individuos y 16 variable
   Menor nivel educativo → menores ingresos promedio.
   
 <img width="1353" height="693" alt="Captura de pantalla 2025-11-11 155110" src="https://github.com/user-attachments/assets/21870135-4018-418f-bfe3-69298488ae91" />
+
 - **Edad:**
-  Entre los 17 y los 35 años es mas probable que los ingresos sean menores a 50.000 u$d, de los 35 a 45 es cuando se gana mas dinero.
+  
 - **Carga laboral:**
   A mayor carga laboral, mejores ingresos.
-  
-   <img width="1355" height="690" alt="Captura de pantalla 2025-11-11 162354" src="https://github.com/user-attachments/assets/7bcbe167-756c-46c5-8946-e1ea599901ca" />
+
+<img width="644" height="365" alt="Captura de pantalla 2026-01-08 110012" src="https://github.com/user-attachments/assets/1193b0f6-1dcb-4236-98fc-5e8f0853397b" />
+ 
 
 - **Brecha de género:**  
 La ventaja salarial masculina es un efecto multiplicador de dos niveles. Primero, el sesgo de género directo otorga un 105% de ventaja adicional por el solo hecho de ser hombre —a igualdad de puesto, horas y capital—. Segundo, el comportamiento (6 horas más de trabajo y $745 extra de capital) suma un 51% de ventaja en las probabilidades de éxito. En conjunto, el hombre promedio posee una ventaja competitiva del 211%, demostrando que la valoración sistémica del mercado pesa incluso más que las diferencias en disponibilidad horaria o recursos financieros.
 - **Brecha racial:**  
-  Solo por el hecho racial, los asiáticos tienen una probabilidad 42% mayor a los blancos y 72% a los afroamericanos a ganar mas. Esto implica que los blancos tienen una ventaja racial del 21% frente a los de piel negra. En cuanto a las diferencias de comportamiento, estas se denotan en la educación y las ganancias de capital: Los asiaticos tienen un 46% mas de probabilidades que los blancos y 118% mas respecto a afrodescendientes. Lo que implica un 54% de ventaja de blancos sobre negros.
+  El factor racial directo otorga a los asiáticos una ventaja del 42% sobre los blancos y del 72% sobre los afroamericanos (situando a los blancos con un beneficio del 21% frente a los negros). Las diferencias en el perfil de comportamiento —educación, capital y horas— amplían drásticamente estas brechas. Bajo este análisis, el perfil competitivo de los asiáticos les otorga un 46% más de probabilidades de éxito que a los blancos y un 118% más respecto a los afrodescendientes, mientras que la población blanca mantiene una ventaja del 54% sobre la negra basada exclusivamente en recursos. Al consolidar ambos factores, el impacto total es contundente: los asiáticos duplican las probabilidades de éxito de los blancos (2.07x) y casi cuadruplican las de los afroamericanos (3.75x), mientras que un trabajador blanco posee casi el doble de probabilidades (1.86x) de alcanzar el grupo de ingresos altos en comparación con un trabajador negro.
 - **Ocupación:**  
   Profesiones con mayores ingresos: `Exec-managerial`, `Prof-specialty`, `Tech-support`, `Sales`.  
   Profesiones con menores ingresos: `Priv-house-serv`, `Handlers-cleaners`, `Farming-fishing`.
