@@ -47,33 +47,12 @@ Un censo de Estados Unidos en 1994 sobre más de 48 000 individuos y 16 variable
 - **Brecha de género:**  
 La ventaja salarial masculina es un efecto multiplicador de dos niveles. Primero, el sesgo de género directo otorga un 105% de ventaja adicional por el solo hecho de ser hombre —a igualdad de puesto, horas y capital—. Segundo, el comportamiento (6 horas más de trabajo y $745 extra de capital) suma un 51% de ventaja en las probabilidades de éxito. En conjunto, el hombre promedio posee una ventaja competitiva del 211%, demostrando que la valoración sistémica del mercado pesa incluso más que las diferencias en disponibilidad horaria o recursos financieros.
 - **Brecha racial:**  
-  Está relacionada con las diferencias en capital gain y educación.
+  Solo por el hecho racial, los asiáticos tienen una probabilidad 42% mayor a los blancos y 72% a los afroamericanos a ganar mas. Esto implica que los blancos tienen una ventaja racial del 21% frente a los de piel negra. En cuanto a las diferencias de comportamiento, estas se denotan en la educación y las ganancias de capital: Los asiaticos tienen un 50% mas de probabilidades que los blancos y 118% mas respecto a afrodescendientes. Lo que implica un 45% de ventaja de blancos sobre negros.
 - **Ocupación:**  
   Profesiones con mayores ingresos: `Exec-managerial`, `Prof-specialty`, `Tech-support`, `Sales`.  
   Profesiones con menores ingresos: `Priv-house-serv`, `Handlers-cleaners`, `Farming-fishing`.
 - **Estado civil:**  
   Las personas casadas presentan mayores ingresos.
-
----
-Grupos con mayor probabilidad de ingresos >50K
-
-| Puesto | Perfil demográfico           | Ocupación        | Total (n) | >50K | Probabilidad |
-|--------|-----------------------------|------------------|-----------|------|--------------|
-| 1      | Male / White                | Exec-managerial  | 3,980     | 2,313| 58.12%       |
-| 2      | Male / Other                | Prof-specialty   | 21        | 12   | 57.14%       |
-| 3      | Male / White                | Prof-specialty   | 3,513     | 2,004| 57.05%       |
-| 4      | Male / Asian-Pac-Islander   | Prof-specialty   | 211       | 115  | 54.50%       |
-| 5      | Male / Asian-Pac-Islander   | Exec-managerial  | 135       | 73   | 54.07%       |
-
-Grupos con menor probabilidad de ingresos >50K
-
-| Puesto | Perfil demográfico           | Ocupación           | Total (n) | >50K | Probabilidad |
-|--------|-----------------------------|---------------------|-----------|------|--------------|
-| 1      | Female / Asian-Pac-Islander | No registrada (NA)  | 47        | 0    | 0.00%        |
-| 2      | Female / Black              | Priv-house-serv     | 51        | 0    | 0.00%        |
-| 3      | Female / Other              | Other-service       | 24        | 0    | 0.00%        |
-| 4      | Male / Amer-Indian-Eskimo   | Handlers-cleaners   | 29        | 0    | 0.00%        |
-| 5      | Male / Black                | Farming-fishing     | 49        | 0    | 0.00%        |
 
 ## ⚙️ Modelado Predictivo
 
@@ -83,10 +62,6 @@ El mejor desempeño se obtuvo con **XGBoost**: El modelo tiene un 87% de exactit
 | Modelo |  Accuracy | Precision | AUC ROC |
 |---------|-----------|-----------|-----------|
 | XGBoost | **0.87** | **0.785** | **0.928** |
-
-
-
-
 
 ---
 
