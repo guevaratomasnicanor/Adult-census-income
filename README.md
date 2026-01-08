@@ -32,20 +32,17 @@ Un censo de Estados Unidos en 1994 sobre más de 48 000 individuos y 16 variable
 
 - **Ingresos:** 
 - **Demografía:**  
-   mujeres, personas afroamericanas y nativos americanos tienden a ganar menos. En los grupos de mayor ingreso se encuentran hombres, blancos y asiaticos.
+   Mujeres, personas afroamericanas y nativos americanos tienden a ganar menos. En los grupos de mayor ingreso se encuentran hombres, blancos y asiaticos.
 - **Educación:**  
   Menor nivel educativo → menores ingresos promedio.
   
 <img width="1353" height="693" alt="Captura de pantalla 2025-11-11 155110" src="https://github.com/user-attachments/assets/21870135-4018-418f-bfe3-69298488ae91" />
 
-- **Edad:**
-  
-- **Carga laboral:**
-  A mayor carga laboral, mejores ingresos.
+- **Edad y carga laboral:**
+  El perfil de personas de mayor ingresos es mayor en edad y trabaja mas horas promedio que el de menores ingresos.
 
 <img width="644" height="365" alt="Captura de pantalla 2026-01-08 110012" src="https://github.com/user-attachments/assets/1193b0f6-1dcb-4236-98fc-5e8f0853397b" />
  
-
 - **Brecha de género:**  
 La ventaja salarial masculina es un efecto multiplicador de dos niveles. Primero, el sesgo de género directo otorga un 105% de ventaja adicional por el solo hecho de ser hombre —a igualdad de puesto, horas y capital—. Segundo, el comportamiento (6 horas más de trabajo y $745 extra de capital) suma un 51% de ventaja en las probabilidades de éxito. En conjunto, el hombre promedio posee una ventaja competitiva del 211%, demostrando que la valoración sistémica del mercado pesa incluso más que las diferencias en disponibilidad horaria o recursos financieros.
 - **Brecha racial:**  
