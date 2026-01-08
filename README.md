@@ -1,4 +1,4 @@
-e# 🧠 Adult Income Analysis
+# 🧠 Adult Income Analysis
 
 El objetivo del proyecto es **predecir si una persona gana más de 50 000 USD anuales** a partir de características demográficas, laborales y educativas.
 
