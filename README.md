@@ -64,7 +64,7 @@ El mejor desempeño se obtuvo con **XGBoost**: El modelo tiene un 87% de exactit
 
 | Modelo |  Accuracy | Precision | AUC ROC |
 |---------|-----------|-----------|-----------|
-| XGBoost | **0.87** | **0.785** | **0.928** |
+| XGBoost | **87.5%** | **78.3%** | **92.75** |
 
 ---
 
