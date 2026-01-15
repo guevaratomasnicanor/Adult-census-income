@@ -59,7 +59,7 @@ El análisis de la brecha de género revela que el factor más determinante es e
   Las personas casadas presentan mayores ingresos.
 
 - **Ganancias de capital**:
-  El perfil con mayores ganancias de capital está dominado por la alta especialización académica y el emprendimiento corporativo: quienes poseen títulos profesionales (Prof-school) lideran con un promedio mensual de $882, duplicando incluso a los doctorados. Esta capacidad de generar riqueza se concentra en dueños de empresas incorporadas (Self-emp-inc) y especialistas técnicos, lo que sugiere que el excedente para inversión en este dataset no proviene del ahorro salarial común, sino de la propiedad de activos y el ejercicio de profesiones de élite.
+ Esta es una de las variables mas esenciales, ya que hay una diferencia de media de ganancias abrumadora entre Ingresos Altos(4000$) e Ingresos Bajos(140$).  El perfil con mayores ganancias de capital está dominado por la alta especialización académica y el emprendimiento corporativo: quienes poseen títulos profesionales (Prof-school) lideran con un promedio mensual de $882, duplicando incluso a los doctorados. Esta capacidad de generar riqueza se concentra en dueños de empresas incorporadas (Self-emp-inc) y especialistas técnicos, lo que sugiere que el excedente para inversión en este dataset no proviene del ahorro salarial común, sino de la propiedad de activos y el ejercicio de profesiones de élite.
 
   
 ## ⚙️ Modelado Predictivo
