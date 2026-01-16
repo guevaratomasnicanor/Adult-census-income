@@ -43,6 +43,7 @@ Un censo de Estados Unidos en 1994 sobre más de 48 000 individuos y 16 variable
 
 <img width="644" height="365" alt="Captura de pantalla 2026-01-08 110012" src="https://github.com/user-attachments/assets/1193b0f6-1dcb-4236-98fc-5e8f0853397b" />
  
+
 - **Brecha de género:**  
 
 El análisis de la brecha de género revela que el factor más determinante es el efecto directo del género (42.3%), lo que sugiere que, a igualdad de condiciones, el simple hecho de ser mujer reduce drásticamente la probabilidad de altos ingresos debido a factores no observados o discriminación sistémica. A esto se suma un 21.5% explicado por diferencias estructurales en el mercado laboral, específicamente la menor carga de horas semanales y la segregación en ocupaciones con menores techos salariales. El componente de riqueza, reflejado en las ganancias de capital (9.1%), y factores demográficos como la edad (6.6%), terminan de configurar una desigualdad donde incluso si las mujeres replicaran exactamente el perfil laboral y de inversión de los hombres, la brecha no se cerraría por completo, dejando un 21% de la diferencia sin explicar por las variables tradicionales del modelo.
