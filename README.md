@@ -32,7 +32,7 @@ Un censo de Estados Unidos en 1994 sobre más de 48 000 individuos y 16 variable
 
 - **Ingresos:** 
 - **Demografía:**  
-   Mujeres, personas afroamericanas y nativos americanos tienden a ganar menos. En los grupos de mayor ingreso se encuentran hombres, blancos y asiaticos.
+   **Mujeres**, **personas afroamericanas** y **nativos americanos** tienden a ganar menos. En los grupos de mayor ingreso se encuentran **hombres**, **blancos** y **asiaticos**.
 - **Educación:**  
   Menor nivel educativo → menores ingresos promedio.
   
