@@ -53,14 +53,14 @@ El análisis de la brecha de género revela que la desigualdad no es un fenómen
    A diferencia de la brecha de género, la disparidad de ingresos entre individuos blancos y negros está impulsada principalmente por el acceso diferencial al mercado laboral y al capital humano. La intensidad laboral (17.5%) y el nivel educativo (17.2%) emergen como los factores más críticos, explicando conjuntamente casi el 35% de la brecha, lo que señala que las diferencias en la trayectoria académica y la carga horaria son las barreras primarias para la equidad. A esto se suma un bloque de influencia equilibrado entre la segregación ocupacional (14.7%), las ganancias de capital (14.6%) y la edad (14.0%), factores que reflejan una menor acumulación de riqueza generacional y una inserción tardía en puestos de alta jerarquía. No obstante, persiste un 8.6% de efecto directo por raza que el modelo no logra explicar mediante méritos o perfiles laborales, evidenciando un residuo de discriminación sistémica que, aunque menor en magnitud que en la brecha de género, actúa como un filtro persistente que limita el ascenso económico independientemente de la calificación profesional.
 
 - **Ocupación:**  
-  Profesiones con mayores ingresos: `Exec-managerial`, `Prof-specialty`, `Tech-support`, `Sales`.  
-  Profesiones con menores ingresos: `Priv-house-serv`, `Handlers-cleaners`, `Farming-fishing`.
+  Profesiones con mayores ingresos: **Ejecutivo-manager**, **Especialidad profesional**, **Soporte técnico** , **Ventas**.  
+  Profesiones con menores ingresos: **Empleados-domésticos**, **Limpieza-mantenimiento** , **Granja-pesca**.
 
 - **Estado civil:**  
   Las personas casadas presentan mayores ingresos.
 
 - **Ganancias de capital**:
- Esta es una de las variables mas esenciales, ya que hay una diferencia de media de ganancias abrumadora entre Ingresos Altos(4000$) e Ingresos Bajos(140$). El 91% de las personas reportó ganancias nulas. El perfil con mayores ganancias de capital está dominado por la alta especialización académica y el emprendimiento corporativo: quienes poseen títulos profesionales (Prof-school) lideran con un promedio mensual de $882, duplicando incluso a los doctorados. Esta capacidad de generar riqueza se concentra en dueños de empresas incorporadas (Self-emp-inc) y especialistas técnicos, lo que sugiere que el excedente para inversión en este dataset no proviene del ahorro salarial común, sino de la propiedad de activos y el ejercicio de profesiones de élite.
+ Esta es una de las variables mas esenciales, ya que hay una diferencia de media de ganancias abrumadora entre Ingresos Altos(4000$) e Ingresos Bajos(140$). El 91% de las personas reportó ganancias nulas. El perfil con mayores ganancias de capital está dominado por la alta especialización académica y el emprendimiento corporativo: quienes poseen títulos profesionales (Prof-school) lideran con un promedio de 10854$, duplicando incluso a los doctorados. Esta capacidad de generar riqueza se concentra en dueños de empresas incorporadas (Self-emp-inc) y especialistas técnicos, lo que sugiere que el excedente para inversión en este dataset no proviene del ahorro salarial común, sino de la propiedad de activos y el ejercicio de profesiones de élite.
 
   
 ## ⚙️ Modelado Predictivo
