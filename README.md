@@ -68,9 +68,9 @@ El análisis de la brecha de género revela que la desigualdad no es un fenómen
 Se probaron distintos modelos supervisados.  
 El mejor desempeño se obtuvo con **XGBoost**: El modelo tiene un 87% de exactitud (casi 9 de cada 10 predicciones acertadas). Además posee una capacidad de discriminación de clases excelente, distinguiendo a que clase de ingresos pertenece cada individuo 
 
-| Modelo |  Accuracy | Precision | AUC ROC |
+| Modelo |  Accuracy | Precision | Recall |
 |---------|-----------|-----------|-----------|
-| XGBoost | **87.5%** | **78.3%** | **92.75** |
+| XGBoost | **87.5%** | **78.3%** | **64.75%** |
 
 ---
 
