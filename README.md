@@ -30,9 +30,10 @@ Un censo de Estados Unidos en 1994 sobre más de 48 000 individuos y 16 variable
 
 ### Principales hallazgos
 
-- **Ingresos:** 
-- **Demografía:**  
-   **Mujeres**, **personas afroamericanas** y **nativos americanos** tienden a ganar menos. En los grupos de mayor ingreso se encuentran **hombres**, **blancos** y **asiaticos**.
+- **Ingresos:** El 76% de los inividuos censados no llegan a ganar mas de 50.000 Dolares anuales. El 24% restante se encuentra con salarios mayores a ese monto.
+
+- **Demografía:**  **Mujeres**, **personas afroamericanas** y **nativos americanos** tienden a ganar menos. En los grupos de mayor ingreso se encuentran **hombres**, **blancos** y **asiaticos**.
+
 - **Educación:**  
   Menor nivel educativo → menores ingresos promedio.
   
@@ -53,8 +54,8 @@ El análisis de la brecha de género revela que la desigualdad no es un fenómen
    A diferencia de la brecha de género, la disparidad de ingresos entre individuos blancos y negros está impulsada principalmente por el acceso diferencial al mercado laboral y al capital humano. La intensidad laboral (17.5%) y el nivel educativo (17.2%) emergen como los factores más críticos, explicando conjuntamente casi el 35% de la brecha, lo que señala que las diferencias en la trayectoria académica y la carga horaria son las barreras primarias para la equidad. A esto se suma un bloque de influencia equilibrado entre la segregación ocupacional (14.7%), las ganancias de capital (14.6%) y la edad (14.0%), factores que reflejan una menor acumulación de riqueza generacional y una inserción tardía en puestos de alta jerarquía. No obstante, persiste un 8.6% de efecto directo por raza que el modelo no logra explicar mediante méritos o perfiles laborales, evidenciando un residuo de discriminación sistémica que, aunque menor en magnitud que en la brecha de género, actúa como un filtro persistente que limita el ascenso económico independientemente de la calificación profesional.
 
 - **Ocupación:**  
-  Profesiones con mayores ingresos: **Ejecutivo-manager**, **Especialidad profesional**, **Soporte técnico** , **Ventas**.  
-  Profesiones con menores ingresos: **Empleados-domésticos**, **Limpieza-mantenimiento** , **Granja-pesca**.
+  Profesiones con mayores ingresos: **Ejecutivo-Manager**, **Especialidad profesional**, **Soporte técnico** , **Ventas**.  
+  Profesiones con menores ingresos: **Empleados domésticos**, **Limpieza Y mantenimiento** , **Granja/pesca**.
 
 - **Estado civil:**  
   Las personas casadas presentan mayores ingresos.
