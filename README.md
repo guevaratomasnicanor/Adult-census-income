@@ -7,7 +7,7 @@ El objetivo del proyecto es **predecir si una persona gana más de 50 000 USD an
 ## 📊 Dataset
 
 El dataset proviene del clásico **Adult Census Income Dataset (UCI Machine Learning Repository)**.  
-Un censo de Estados Unidos en 1994 sobre más de 48 000 individuos y 16 variables.
+Un censo de Estados Unidos en 1994 sobre más de 48 000 individuos y 13 variables.
 
 **Variables principales:**
 - `income` → variable objetivo (`>50K` o `<=50K`)
