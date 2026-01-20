@@ -71,7 +71,7 @@ El mejor desempeño se obtuvo con **XGBoost**: El modelo tiene un 87% de exactit
 
 | Modelo |  Accuracy | Precision | Recall | F1 Score |
 |---------|-----------|-----------|-----------| -------|
-| XGBoost | **86.6%** | **72.3%** | **64.75%** | 72.93% |
+| XGBoost | **86.6%** | **72.3%** | **73.3%** | 72.93% |
 
 ---
 
